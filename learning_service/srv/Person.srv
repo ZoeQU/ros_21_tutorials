@@ -1,0 +1,7 @@
+string name
+uint8  age
+string sex
+
+---
+string result
+
