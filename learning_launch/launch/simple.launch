@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="topic_tutorials" type="person_subscriber.py" name="talker" output="screen" />
+    <node pkg="topic_tutorials" type="person_publisher.py" name="listener" output="screen" /> 
+</launch>
