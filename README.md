@@ -1,4 +1,4 @@
-# 古月-ROS入门21讲-Ubuntu20.04-ROS-Noetic版本-Python代码
+# 古月-ROS入门21讲-Ubuntu20.04-ROS-Noetic版本-Python3代码
 
 ### Python代码示例
 * Hello World!
